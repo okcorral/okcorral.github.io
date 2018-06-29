@@ -1,0 +1,27 @@
+body {
+  background-color: #EACA51;
+}
+
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+}
+h2 {
+    font-family: 'Spectral', serif;
+}
+.jumbotron {
+    background-color: #725F82;
+}
+.jumbotron h1 {
+    color: #99D871;
+}
+.roboto {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.lucky {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 24px;
+}
+.luckyR {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: medium;
+}
