@@ -1,5 +1,5 @@
 body {
-  background-color: #EACA51;
+  background-color: #775888;
 }
 
 h1 {
@@ -8,11 +8,17 @@ h1 {
 h2 {
     font-family: 'Spectral', serif;
 }
+
+.navbar-default {
+    background-color: #99D871;
+}
+
 .jumbotron {
-    background-color: #725F82;
+    background-color: #FFF089;
+    text-align:center;
 }
 .jumbotron h1 {
-    color: #99D871;
+    color: black;
 }
 .roboto {
     font-family: 'Roboto Condensed', sans-serif;
@@ -20,6 +26,10 @@ h2 {
 .lucky {
     font-family: 'Luckiest Guy', cursive;
     font-size: 24px;
+}
+.luckyd {
+    font-family: 'Eater', cursive;
+    font-size: 36px;
 }
 .luckyR {
     font-family: 'Luckiest Guy', cursive;
